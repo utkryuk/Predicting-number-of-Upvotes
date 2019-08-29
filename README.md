@@ -1,2 +1,5 @@
 # Predicting-number-of-Upvotes
-Part of an ML contest. Link: https://datahack.analyticsvidhya.com/contest/enigma-codefest-machine-learning-1/
+
+This is part of an online competition at **Analytics Vidhya**
+
+I have created just a basic model right now. Will be improving after getting some new ideas.
